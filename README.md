@@ -11,3 +11,8 @@ It should have:
     c) register: form that captures email/password/password confirmation
     d) feedback form?
   3. footer that has copyright. copy of links from the header, link to terms of service, etc.
+  
+(Пустой title - не проходит валидацию.
+Строка 9 и 93. Все li остались открытыми.
+В FAQ только вопросы, нет ответов.
+Строка 66. <address> Использован для email.)
